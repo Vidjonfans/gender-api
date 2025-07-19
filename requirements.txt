@@ -1,0 +1,6 @@
+Flask
+requests
+librosa
+numpy
+scipy
+pydub
